@@ -6,6 +6,8 @@ This project scores 223 headline signings (EUR 20m or more, summer 2016 to Janua
 
 Everything runs on free, public data and takes about a minute on a laptop.
 
+**New to this? Start with [RESULTS.md](RESULTS.md), a plain-English version of the findings.**
+
 ## Headline results
 
 **Lifetime points above replacement, top 10**
